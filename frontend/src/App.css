@@ -1,0 +1,28 @@
+.App {
+    font-family: sans-serif;
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+textarea {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 0.5rem;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.output, .history {
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+    color: #333;
+}
+
+
+
